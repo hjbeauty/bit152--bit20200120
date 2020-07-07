@@ -2,4 +2,4 @@
 
 ### ERD, UML, UI 스토리보드 
 
-프로젝트 문서 관리 (트렐로) : https://trello.com/b/ukN7sBEL/project%F0%9F%96%A5
+UI 스토리보드 링크 : https://docs.google.com/presentation/d/1gZBnFHYdP7IDurRuNDhp6UHpl-lfOjdCCIVPfelLKxA/edit?usp=sharing
