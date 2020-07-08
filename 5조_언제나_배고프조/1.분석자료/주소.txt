@@ -1,0 +1,12 @@
+
+노션 (협업툴)
+https://www.notion.so/bccb28c42e2547c3a10da9796d693b71
+
+UI스토리보드
+https://docs.google.com/presentation/d/10XYcfO_pwM6HxP29z0R6B31NG4-yqYcYT66H3U9kcF0/edit#slide=id.g7764cfafaf_5_42
+
+클래스다이어그램
+https://drive.google.com/file/d/1CJa7qkOEVOxIL3uwAK8tnXvYSci3Kg64/view?usp=sharing
+
+시퀀스다이어그램
+https://drive.google.com/file/d/1Ijde2s-0xOS-2TX4A7jFR223Gm6lZWiU/view?usp=sharing
