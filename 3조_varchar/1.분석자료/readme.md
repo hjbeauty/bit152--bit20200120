@@ -8,3 +8,4 @@ WBS https://drive.google.com/file/d/1pDAeVbVA5qU4tWC_9bteD0A-VczNNIjO/view?usp=s
 
 시퀀스설계, 요구사항 명세서 https://docs.google.com/spreadsheets/d/1RQSc_03ByfteIUVYvsCJ1iL-tsDrqOqznA0VVnNcix0/edit?usp=sharing
 
+시퀀스 D https://drive.google.com/file/d/1kCN-E2L-H82yL7c5T-6QpCjRuu3jD_3w/view0
